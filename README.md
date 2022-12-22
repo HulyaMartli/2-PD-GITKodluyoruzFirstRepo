@@ -1,10 +1,12 @@
 # Kodluyoruz Ilk Repo
 
-![kodluyoruzilkrepo](https://lh3.googleusercontent.com/0tyL8LhxVTJC6SisF-HP7g6d7nmAgGOI9AikgeArlviJxbkTVZdG2vzvvzzFK43MrajvDQBvxnzjFhpj4y0slj-F3i8CJXkjEEIACttwFom2khwgQ1cPS25GYHk28rfA-ErR5k_0KTc=w2400)
-
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 I have created this repository as a task at the end of Git course in the Beginner Frontend Web Development Path in [patika.dev](https://patika.dev/). It contains one README file and one Index file as defined in the task in the course.
+
+## Creating Repository on GitHub
+
+![kodluyoruzilkrepo](https://lh3.googleusercontent.com/0tyL8LhxVTJC6SisF-HP7g6d7nmAgGOI9AikgeArlviJxbkTVZdG2vzvvzzFK43MrajvDQBvxnzjFhpj4y0slj-F3i8CJXkjEEIACttwFom2khwgQ1cPS25GYHk28rfA-ErR5k_0KTc=w2400)
 
 ## Installation
 
